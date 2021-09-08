@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeathZone
+  - Danger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ParticleSystem
+  - Water
+  - UI
+  - BackGround
+  - Front
+  - Center
+  - UIElements
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 294530003
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Center
+    uniqueID: 1330639047
+    locked: 0
+  - name: Front
+    uniqueID: 2815954101
+    locked: 0
+  - name: ParticleSystem
+    uniqueID: 2776672389
+    locked: 0
+  - name: UIElements
+    uniqueID: 414339673
+    locked: 0
